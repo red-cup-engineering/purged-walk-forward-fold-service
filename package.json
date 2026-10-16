@@ -1,6 +1,6 @@
 {
   "name": "@red-cup-engineering/purged-walk-forward-fold-service",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "type": "module",
   "description": "Forms deterministic chronological train, validation, and holdout coordinates with an explicit label purge.",
   "exports": {
