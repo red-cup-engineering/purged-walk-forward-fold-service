@@ -5,8 +5,7 @@
   "description": "Forms deterministic chronological train, validation, and holdout coordinates with an explicit label purge.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/financial-engineering-services-section.git",
-    "directory": "services/strategy-evaluation-services-section/services/purged-walk-forward-fold-service"
+    "url": "git+https://github.com/red-cup-engineering/purged-walk-forward-fold-service.git"
   },
   "exports": {
     ".": "./src/folds.mjs"
